@@ -1,0 +1,4 @@
+-> Texto UOD;
+-> Apagar a seta do serves da interface BioBox;
+-> Fazer funções a sacarem os servicos das interfaces da digital walet e da Google;
+-> Fazer com que as interfaces sejam parte da Google e da app digital walet gerais.
