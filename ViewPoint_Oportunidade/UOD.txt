@@ -1,0 +1,9 @@
+BioBox tem um novo produto: BioBoxPlus. Ao usar BioBox, BioBoxPlus escolhe os anúncios mais relevantes
+(usando algoritmos da Google) para cada utilizador (anúncios personalizados)
+tendo em conta as informações sobre ele provenientes da sua Digital Wallet.
+
+Ao passar a sua identificação no BioGate os dados relevantes do utilizador (por exemplo: e-mail) 
+são extraídos da sua Digital Wallet através de algorimos de manipulação de dados levada a cabo pelos servidores BioBoxPlus.
+Esses dados são colocados na Base de Dados dos Clientes. Com esses dados os anúncios mais relevantes para o utilizador
+são escolhidos através de algoritmos de escolha e personalização da Google, após isso os anúncios escolhidos vão ser
+enviados para uma Base de Dados do cliente.
